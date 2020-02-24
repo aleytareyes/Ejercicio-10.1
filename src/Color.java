@@ -1,0 +1,4 @@
+
+public enum Color {
+   MATE, AMARRILO, PORCELANA, ALBINO, AZABACHE, MORCILLO, PECEÑO; 
+}
